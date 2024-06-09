@@ -1,12 +1,12 @@
 {
-  "City": "City",
-  "Contact": "Contact",
-  "Country": "Country",
+  "City": "Cidade",
+  "Contact": "Contato",
+  "Country": "Pais",
   "Email": "Email",
-  "Phone 1": "Phone 1",
-  "Phone 2": "Phone 2",
-  "State": "State",
-  "Street 1": "Street 1",
-  "Street 2": "Street 2",
-  "Zip code": "Zip code"
+  "Phone 1": "Telefone 1",
+  "Phone 2": "Telefone 2",
+  "State": "Estado",
+  "Street 1": "Endereco 1",
+  "Street 2": "Endereco 2",
+  "Zip code": "CEP"
 }
